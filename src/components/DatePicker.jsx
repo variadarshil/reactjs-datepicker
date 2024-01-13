@@ -105,7 +105,7 @@ const DatePicker = () => {
         break;
       case 'last30days':
         start = new Date(today);
-        start.setDate(today.getDate() - 29);
+        start.setDate(today.getDate() - 30);
         break;
       case 'thismonth':
         const dateMonth = getCurrentMonthDates();
