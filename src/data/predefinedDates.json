@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "today",
+      "value": "Today"
+    },
+    {
+        "id": 2,
+        "name": "yesterday",
+        "value": "Yesterday"
+    },
+    {
+        "id": 3,
+        "name": "last7days",
+        "value": "Last 7 days"
+    },
+    {
+        "id": 4,
+        "name": "last30days",
+        "value": "Last 30 days"
+    },
+    {
+        "id": 5,
+        "name": "thismonth",
+        "value": "This month"
+    },
+    {
+        "id": 6,
+        "name": "lastmonth",
+        "value": "Last month"
+    },
+    {
+        "id": 7,
+        "name": "thisyear",
+        "value": "This year"
+    },
+    {
+        "id": 8,
+        "name": "lastyear",
+        "value": "Last year"
+    }
+  ]
